@@ -4,9 +4,9 @@ Projet Library Manager IN205
 # Instructions
 `se mettre dans le directoire correspondant (ou est le pom.xml)`
 
-`Compiler avec Maven et tomcat: mvn clean install tomcat7:run`
+`Compiler et exécuter: mvn clean install tomcat7:run`
 
-`Ouvrir l'application web dans un navigateur via le lien généré: http://localhost:8080/ProjetEnsta`
+`Ouvrir l'application dans un navigateur web via l'adresse générée: http://localhost:8080/ProjetEnsta`
 
 
 
