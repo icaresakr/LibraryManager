@@ -1,6 +1,7 @@
 # LibraryManager
 Projet Library Manager IN205
 
+# Instructions
 `se mettre dans le directoire correspondant (ou est le pom.xml)`
 
 `Compiler avec Maven et tomcat: mvn clean install tomcat7:run`
